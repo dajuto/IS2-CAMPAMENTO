@@ -40,6 +40,11 @@ public class Pokemon {
 			System.out.println(perro.toString());
 			
 
+			Pokemon perro= new Pokemon(5,"Jolteon");
+			
+			System.out.println(perro.toString());
+			
+
 		}
 
 	
