@@ -42,7 +42,7 @@ public class Pokemon {
 
 			Pokemon jolteon= new Pokemon(5,"Jolteon");
 			
-			System.out.println(perro.toString());
+			System.out.println(jolteon.toString());
 			
 
 		}
