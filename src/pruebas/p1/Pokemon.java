@@ -5,6 +5,7 @@ public class Pokemon {
 		
 		int vida;
 		String nombre;
+		int ataque;
 		Pokemon(){
 			
 		}
